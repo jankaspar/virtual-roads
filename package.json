@@ -1,0 +1,16 @@
+{
+  "name": "virtual-roads",
+  "version": "1.0.0",
+  "description": "",
+  "license": "MIT",
+  "dependencies": {
+    "three": "^0.69.0",
+    "mithril": "^0.1.27"
+  },
+  "devDependencies": {
+    "browserify": "~7",
+    "minifyify": "^4.4.0",
+    "tsify": "^0.7.0",
+    "gulp": "^3.8.10"
+  }
+}
